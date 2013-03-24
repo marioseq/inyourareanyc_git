@@ -1,0 +1,13 @@
+== Description ==
+The Twitter Profile section allows you to easily insert Twitter feeds into your website without having to configure/copy/paste any code.
+
+== Features ==
+* Display your three most recent Twitter updates
+* Place in any Template Area
+* Will autosize to the Template Area it is active in
+* No need to copy & paste code, simply add your Twitter Username to the page's Meta Settings
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release

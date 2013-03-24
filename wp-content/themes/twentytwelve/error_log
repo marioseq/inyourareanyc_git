@@ -1,0 +1,2 @@
+[09-Feb-2013 16:41:23] PHP Fatal error:  Call to undefined function  get_header() in /home2/mixingch/public_html/buildmxmusic/wp-content/themes/twentytwelve/index.php on line 17
+[09-Feb-2013 16:41:57] PHP Fatal error:  Call to undefined function  the_id() in /home2/mixingch/public_html/buildmxmusic/wp-content/themes/twentytwelve/content.php on line 11

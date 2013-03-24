@@ -1,0 +1,19 @@
+== Description ==
+
+MUD - Minimum Usable Design
+
+This holy-smokes-it's-free theme is completely free for personal use, and commercial use, and was designed to give you an idea of what's possible with some CSS foo and PageLines Framework.
+
+Theme is part of the FREE PageLines Theming Kit available at the <a href="http://demo.pagelines.com/framework/theming" target="_blank">Theming Center</a>.
+
+== Changelog ==
+
+= 1.1 =
+* Fixed undefined color variable
+* Fixed broken "here" link
+* Cleaned up some raunchy code (props evan)
+* Fixed Author Plus icons from appearing when they shouldn't
+* Added new area in Author Plus options so you provide sociallinks which can be differnet from the main sites social links
+
+= 1.0 =
+* Initial release

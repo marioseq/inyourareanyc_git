@@ -1,0 +1,11 @@
+== Description ==
+
+Turn your background or any block level div into an image fader
+
+== Changelog ==
+
+= 1.0 =
+fix php shorthand
+
+= 0.1 = 
+* Initial release.
